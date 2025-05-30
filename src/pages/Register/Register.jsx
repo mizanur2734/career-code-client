@@ -31,7 +31,7 @@ const Register = () => {
           <Lottie
             style={{ width: "200px" }}
             animationData={registerLottie}
-            loop="true"
+            loop={true}
           ></Lottie>
         </div>
         <div className="card bg-base-100 w-full max-w-sm shrink-0 shadow-2xl">
